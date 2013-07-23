@@ -5,7 +5,7 @@ Mac OS X Login Screenshot
     - [Description](#description)
     - [How to use](#how-to-use)
     - [Notes](#notes)
-    - [Copyright & License](#copyright-license)
+    - [Copyright & License](#copyright--license)
 
 Description
 -----------
